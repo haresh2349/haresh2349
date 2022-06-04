@@ -1,6 +1,6 @@
-![MasterHead](https://www.uplers.com/wp-content/uploads/2020/05/Essential-Skills-to-look-for-when-you-Hire-Front-end-Developers-891x505.jpg)
-<h1 align="center">Hi 👋, I'm Haresh</h1>
-<h3 align="center">A passionate fullstack developer from Gujrat,India</h3>
+
+<h1 align="center">Hi 👋, I'm Haresh Solanki</h1>
+<h3 align="center">A passionate fullstack web developer from Gujrat,India</h3>
 <img align="right" width:"400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haresh2349&label=Profile%20views&color=0e75b6&style=flat" alt="haresh2349" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hareshcsolanki07@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/11m6m8h7Oipeyt124-me4LMZMMZiIHOPIQ2wACeqz0g0/edit#](https://docs.google.com/document/d/11m6m8h7Oipeyt124-me4LMZMMZiIHOPIQ2wACeqz0g0/edit#)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
