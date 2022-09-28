@@ -2,7 +2,7 @@
 <h3 align="center">A dedicated MERN-Stack Developer who designs user-friendly user interfaces for web applications. Always a learner.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1200/1*Y5S3wOm52_4iYusUagbEtw.jpeg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket2910&label=Profile%20views&color=0e75b6&style=flat" alt="haresh2349" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haresh2349&label=Profile%20views&color=0e75b6&style=flat" alt="haresh2349" /> </p>
 
 - 🔭 I’m currently working on **Instagram Clone**
 
