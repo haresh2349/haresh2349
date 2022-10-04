@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://haresh2349.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="haresh2349" /></a>
 <a href="https://www.linkedin.com/in/haresh-solanki/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="haresh2349"  /></a>
-
+<a href="https://drive.google.com/file/d/1Fd1tQL3-JLcM7UYGqtLjnns5mLPvS0rE/view?usp=sharing" target="_blank">Resume</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
