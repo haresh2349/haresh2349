@@ -59,7 +59,7 @@
 
 <br />
 
-<a href="https://github.com/haresh2349/github-readme-activity-graph"><img alt="Aniket's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=haresh2349&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/haresh2349/github-readme-activity-graph"><img alt="Haresh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=haresh2349&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 <p align="center">
