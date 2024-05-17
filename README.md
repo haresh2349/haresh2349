@@ -4,12 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haresh2349&label=Profile%20views&color=0e75b6&style=flat" alt="haresh2349" /> </p>
 
-- 🔭 I’m currently working on **Instagram Clone**
-
-- 🌱 I’m currently learning **NodeJS**
-
-- 💬 Ask me about **HTML, CSS, JS, ReactJS and DSA**
-
 - 📫 How to reach me **hareshcsolanki07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
