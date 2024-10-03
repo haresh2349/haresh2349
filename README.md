@@ -4,14 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haresh2349&label=Profile%20views&color=0e75b6&style=flat" alt="haresh2349" /> </p>
 
-- 📫 How to reach me **hareshcsolanki07@gmail.com**
+- 📫 How to reach me **haresh.solanki.works@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
 <!-- <a href="https://haresh2349.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="haresh2349" /></a> -->
 <a href="https://www.linkedin.com/in/haresh-solanki/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="haresh2349"  /></a>
-<a href="https://drive.google.com/file/d/1crnTFlrX1oBzYY7DL4IHaEg4A79kW-6g/view?usp=sharing" target="_blank">Resume</a>
+<a href="https://drive.google.com/file/d/1vPZpnl4u5kcMNpKO0oLH4EPdk0-Wjjdf/view?usp=sharing" target="_blank">Resume</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
