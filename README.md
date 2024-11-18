@@ -11,7 +11,7 @@
 <p align="left">
 <!-- <a href="https://haresh2349.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="haresh2349" /></a> -->
 <a href="https://www.linkedin.com/in/haresh-solanki/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="haresh2349"  /></a>
-<a href="https://drive.google.com/file/d/1vPZpnl4u5kcMNpKO0oLH4EPdk0-Wjjdf/view?usp=sharing" target="_blank">Resume</a>
+<a href="https://drive.google.com/file/d/1lrGG4Zk-e8hk5jR-d1cT52Dp_QKGE-ws/view?usp=sharing" target="_blank">Resume</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +33,7 @@
 <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="mongoose" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" alt="cypress" width="40" height="40"/> </a>
+<!-- <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" alt="cypress" width="40" height="40"/> </a> -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="git" width="40" height="40"/> </a>
  
