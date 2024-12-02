@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haresh Solanki</h1>
-<h3 align="center">A dedicated MERN-Stack Developer who designs user-friendly user interfaces for web applications. Always a learner.</h3>
+<h3 align="center">I'm a passionate Software engineer, currently diving deep into Webpack and TypeScript, mastering modern development workflows and building scalable, efficient applications. 🚀
+
+Every day is an opportunity to learn, grow, and create something impactful. My journey is fueled by curiosity, problem-solving, and the drive to turn ideas into reality.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1200/1*Y5S3wOm52_4iYusUagbEtw.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haresh2349&label=Profile%20views&color=0e75b6&style=flat" alt="haresh2349" /> </p>
@@ -48,8 +50,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haresh2349&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117,000000,130F40" alt="haresh2349" /></p>
 
 <br />
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haresh2349&theme=react&hide_border=true&bg_color=0D1117,000000,130F40" alt="haresh2349" /></p>
 
 <br />
 
