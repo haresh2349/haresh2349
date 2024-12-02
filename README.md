@@ -53,7 +53,7 @@
 
 <br />
 
-<a href="https://github.com/haresh2349/github-readme-activity-graph"><img alt="Haresh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=haresh2349&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Haresh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haresh2349)](https://github.com/haresh2349/github-readme-activity-graph)
 <br/>
 
 <p align="center">
